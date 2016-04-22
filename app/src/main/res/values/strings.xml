@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IP Calc Lite</string>
+    <string name="history_header">Ip Calc History</string>
+    <string name="ip_hint">192.168.100.189</string>
+    <string name="ip_text">IP/Mask:</string>
+    <string name="ip_slash">/</string>
+    <string name="ip_mask_text">Enter Mask:</string>
+    <string name="ip_mask_hint">24</string>
+    <string name="calculate_btn_text">Calculate</string>
+    <string name="to_calc_btn_text">Calculator</string>
+    <string name="history_btn_text">History</string>
+    <string name="network_ip_text">Network IP:</string>
+    <string name="total_ips_text">Total IPs:</string>
+    <string name="default_value">Not Available</string>
+</resources>
